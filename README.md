@@ -1,4 +1,4 @@
-# ![alt text](https://github.com/ishahakm/aussie/blob/main/img/Logo_aussie.jpg) Aussie
+# ![alt text](https://github.com/ishahakm/aussie/blob/main/img/Logo_aussie.jpg) Aussie Docker
 A docker image for Single-Cell RNA and Spatial transcriptomic analysis
 
 ## 0. Change Log
